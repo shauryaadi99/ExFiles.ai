@@ -1,4 +1,3 @@
-```markdown
 # 💔 ExFiles.ai — Chat with Your AI Ex
 
 A dramatic, emotional, and *hilariously sassy* AI ex-girlfriend who remembers *everything* — especially the things you wish she didn't.
@@ -20,17 +19,16 @@ This is a front-end project that lets you chat with an AI character through a be
 
 ## 📸 Preview
 
-![ExFiles.ai Demo](https://shauryaadi99.github.io/ExFiles.ai/)
-![Screenshot 2025-06-19 205553](https://github.com/user-attachments/assets/285fe8a6-e196-4b76-ab64-d12fe42acb20)
-![Screenshot 2025-06-19 205623](https://github.com/user-attachments/assets/2fe69a68-d4a2-42c5-9abe-4baf5911ecbb)
-![Screenshot 2025-06-19 205709](https://github.com/user-attachments/assets/8d6f80b4-24f8-4606-9e9e-eb2238562646)
+🚀 **Live Demo:** [Click here to experience the drama →](https://shauryaadi99.github.io/ExFiles.ai/) 💬💔
+![Screenshot 2025-06-19 205553](https://github.com/user-attachments/assets/bfb9369a-cfc8-4c7e-a9ec-99ebdd5d7d34)
+![Screenshot 2025-06-19 205623](https://github.com/user-attachments/assets/a98d4f5d-eb7a-456e-845a-0be3ce61e80f)
+![Screenshot 2025-06-19 205709](https://github.com/user-attachments/assets/d0ea7876-8f6c-4b19-98bf-bbab4a0ff742)
 
 
 ---
 
 ## 📦 Folder Structure
 
-```
 
 exfiles-ai/
 ├── index.html          # Main HTML file
